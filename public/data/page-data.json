@@ -1,0 +1,113 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "gautambimarsha2003@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:gautambimarsha2003@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+977 9861813030",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+9779861813030"
+      },
+      {
+        "type": "website",
+        "label": "www.gautambimarsha.com.np",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.gautambimarsha.com.np"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/instagram-icon.svg",
+        "link": "https://www.instagram.com/gautambimarsha.com.np/"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/bimarshagautam07/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://www.facebook.com/gautambimarsha10/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Herald College Kathmandu - 2025",
+        "description": "BSc (Hons) Computer Science, University of Wolverhampton"
+      },
+      {
+        "title": "Khwopa Secondary School - 2022",
+        "description": "10+2 Science Faculty, National Examination Board"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Sketch",
+        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Power BI",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Tableau",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "SQL",
+        "icon": "/images/home/education-skill/invision-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Instagram",
+        "href": "https://www.instagram.com/gautambimarsha.com.np/"
+      },
+      {
+        "title": "Facebook",
+        "href": "https://www.facebook.com/gautambimarsha10/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/bimarshagautam07/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "gautambimarsha2003@gmail.com",
+        "link": "mailto:gautambimarsha2003@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+977 9861813030",
+        "link": "tel:+9779861813030"
+      }
+    ]
+  }
+}
